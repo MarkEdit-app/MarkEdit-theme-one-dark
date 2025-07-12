@@ -366,9 +366,9 @@ fsevents@~2.3.2, fsevents@~2.3.3:
   version "0.11.0"
   resolved "https://github.com/MarkEdit-app/MarkEdit-api#8a82bb1eeb15c47eedba8803245fe64cd1e6940f"
 
-"markedit-theming@https://github.com/MarkEdit-app/MarkEdit-theming#v0.6.0":
-  version "0.6.0"
-  resolved "https://github.com/MarkEdit-app/MarkEdit-theming#ac4ed48d3d215e6904d3fdcfa96fe0853c1e6655"
+"markedit-theming@https://github.com/MarkEdit-app/MarkEdit-theming#v0.7.0":
+  version "0.7.0"
+  resolved "https://github.com/MarkEdit-app/MarkEdit-theming#71d6521c305c10efab690223e04fee983ffab9b2"
 
 "markedit-vite@https://github.com/MarkEdit-app/MarkEdit-vite#v0.3.0":
   version "0.3.0"
