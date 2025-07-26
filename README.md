@@ -2,7 +2,7 @@
 
 [One Dark](https://github.com/one-dark) theme for [MarkEdit](https://github.com/MarkEdit-app/MarkEdit), built on top of [MarkEdit-theming](https://github.com/MarkEdit-app/MarkEdit-theming).
 
-<img width="344" title="One Dark" src="https://github.com/user-attachments/assets/52603145-d096-4bbb-b46f-d6b7826e7982" />
+<img width="344" title="One Dark" src="https://github.com/user-attachments/assets/52603145-d096-4bbb-b46f-d6b7826e7982" /><br>
 
 To customize colors, see [Customization](https://github.com/MarkEdit-app/MarkEdit-theming/wiki#customization) for details.
 
